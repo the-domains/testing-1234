@@ -1,0 +1,28 @@
+name: Testing 1234
+favicon: null
+layout_spectrum: 0.4099620229098946
+typography_spectrum: 0.24231778597459197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8370828584302217
+  lightness: 0.06527936225757003
+  saturation: 0.04185455339029431
+  rhythmicContrast: 0.5532090726774186
+purpose: []
